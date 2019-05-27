@@ -171,4 +171,3 @@ def main():
     # plot_personality_graph()
 
 main()
-
